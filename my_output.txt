@@ -627,4 +627,6 @@ e BBBWBWWW
 f BBBBWWWW
 g BBWWWBWW
 h BBWWWWWW
-Enter move for colour B (RowCol): 
+B player has no valid move.
+W player has no valid move.
+White wins by 2 points!
